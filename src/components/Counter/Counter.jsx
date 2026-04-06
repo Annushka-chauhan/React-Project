@@ -59,4 +59,4 @@ const Counter = memo (function Counter({ initialCount }) {
     </section>
   );
 });
-export default Counter;
+export default Counter; 
